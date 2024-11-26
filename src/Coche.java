@@ -38,5 +38,8 @@ public class Coche {
     }
 
 }
+public void apagar() {
+    System.out.println("El coche se apaga de manera segura.");
+}
 
 
